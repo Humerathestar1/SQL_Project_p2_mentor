@@ -1,4 +1,4 @@
--- SQL Mini Project 10/10
+
 -- SQL Mentor User Performance
 
 -- DROP TABLE user_submissions; 
