@@ -1,6 +1,7 @@
 # SQL Mentor User Performance Analysis | Project No.2
 
-![SQL Data Analytics](https://github.com/Humerathestar1/SQL_Project_p2_mentor/commit/88d708da6491bad149a3722f2e7d3eb29b33e7bb)
+![SQL Data Analytics](https://raw.githubusercontent.com/Humerathestar1/SQL_Project_p2_mentor/main/sql.png
+)
 
 ## Project Overview
 
